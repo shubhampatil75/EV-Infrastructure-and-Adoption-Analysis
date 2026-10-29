@@ -1,0 +1,17 @@
+## 📊 Dataset
+
+The dataset used in this project focuses on **Electric Vehicle (EV) Adoption and Charging Infrastructure Analysis**. It supports the exploration of EV adoption trends, charging infrastructure availability, and related patterns through interactive Power BI dashboards.
+
+### 🔗 Dataset Access
+The dataset is available on Kaggle:
+
+👉 **[Access the Dataset on Kaggle](https://www.kaggle.com/datasets/shubhampatil75/ev-adoption-and-charging-infrastructure-analysis)**
+
+### 📌 How to Use
+1. Open the Kaggle dataset using the link above.
+2. Download the dataset files.
+3. Open the Power BI `.pbix` file provided in this repository.
+4. If required, update the data source path in Power BI to match your downloaded files.
+5. Explore the dashboard visuals, filters, and insights.
+
+*Note: Please refer to the Kaggle dataset page for information about the data source, columns, and usage permissions.*
