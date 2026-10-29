@@ -74,30 +74,11 @@ Explores commercial fleet electrification and related EV adoption patterns.
 
 Presents AI-based forecast visualizations to explore potential future trends in EV adoption and charging infrastructure.
 
-## 🖼️ Dashboard Screenshots
+## 📸 Dashboard Screenshots
 
-The screenshots below document the dashboard pages included in this project.
+Explore the complete collection of dashboard screenshots, covering all report pages, visualizations, and key insights.
 
-### 1. Overview Page
-![Overview Page](Screenshots/Page%201%20-%20Overview%20Page%20-%20EV%20Charging%20Infrastructure%20vs.%20EV%20Adoption%20Equity%20Analysis%20.jpg)
-
-### 2. State 1
-![State 1](Screenshots/Page%202A%20-%20State%201%20-%20EV%20Charging%20Infrastructure%20vs.%20EV%20Adoption%20Equity%20Analysis%20.jpg)
-
-### 3. State 2 — Chart View
-![State 2 Chart View](Screenshots/Page%202B%20-%20State%202%20Chart%20View%20-%20EV%20Charging%20Infrastructure%20vs.%20EV%20Adoption%20Equity%20Analysis%20.jpg)
-
-### 4. Hardware Network
-![Hardware Network](Screenshots/Page%203%20-%20Hardware%20Network%20-%20EV%20Charging%20Infrastructure%20vs.%20EV%20Adoption%20Equity%20Analysis%20.jpg)
-
-### 5. EV Laws & Policy
-![EV Laws and Policy](Screenshots/Page%204%20-%20EV%20Laws%20%26%20Policy%20-%20EV%20Charging%20Infrastructure%20vs.%20EV%20Adoption%20Equity%20Analysis%20.jpg)
-
-### 6. Commercial Fleet
-![Commercial Fleet](Screenshots/Page%205%20-%20Commerical%20Fleet%20-%20EV%20Charging%20Infrastructure%20vs.%20EV%20Adoption%20Equity%20Analysis%20.jpg)
-
-### 7. AI Forecast
-![AI Forecast](Screenshots/Page%206%20-%20AI%20Forecast%20-%20EV%20Charging%20Infrastructure%20vs.%20EV%20Adoption%20Equity%20Analysis%20.jpg)
+👉 **[View All Dashboard Screenshots](https://github.com/shubhampatil75/EV-Infrastructure-and-Adoption-Analysis/tree/main/Screenshots)**
 
 ## 📁 Repository Structure
 
